@@ -1,0 +1,53 @@
+{"sentence": "A playful Labrador came in for his annual vaccinations today.", "sex": "male"}
+{"sentence": "We treated a Siamese cat with kidney issues; she has been improving steadily.", "sex": "female"}
+{"sentence": "A guinea pig was brought in for a nail trim and seemed quite calm.", "sex": "not specified"}
+{"sentence": "A male rabbit arrived with a suspected case of GI stasis.", "sex": "male"}
+{"sentence": "Today, a senior Poodle visited for her arthritis check-up.", "sex": "female"}
+{"sentence": "An owner brought in their ferret, worried about his unusual lethargy.", "sex": "male"}
+{"sentence": "A parrot with feather-plucking behavior was brought into the clinic.", "sex": "not specified"}
+{"sentence": "A young tabby cat came in for her spay surgery consultation.", "sex": "female"}
+{"sentence": "A Rottweiler visited for his routine heartworm test.", "sex": "male"}
+{"sentence": "A Shih Tzu with a persistent cough came for an evaluation.", "sex": "not specified"}
+{"sentence": "A Dachshund with back pain arrived for her follow-up X-rays.", "sex": "female"}
+{"sentence": "A Bengal cat with a skin rash was brought in for examination.", "sex": "not specified"}
+{"sentence": "A young male Cockatiel came in for a beak trim.", "sex": "male"}
+{"sentence": "A Golden Retriever visited today for her post-surgical check-up.", "sex": "female"}
+{"sentence": "A Persian cat was treated for his chronic eye discharge.", "sex": "male"}
+{"sentence": "A French Bulldog presented with a suspected ear infection.", "sex": "not specified"}
+{"sentence": "We saw a Labrador with a swollen paw; she had stepped on a thorn.", "sex": "female"}
+{"sentence": "A young husky with diarrhea came in for testing.", "sex": "not specified"}
+{"sentence": "A Cockapoo visited today for his microchip implantation.", "sex": "male"}
+{"sentence": "A cat was brought in for a dental cleaning; her owner reported she had bad breath.", "sex": "female"}
+{"sentence": "A senior dog came in for a weight-loss consultation.", "sex": "not specified"}
+{"sentence": "A German Shepherd with hip dysplasia visited for pain management.", "sex": "male"}
+{"sentence": "An Amazon parrot was examined for his regurgitation problem.", "sex": "male"}
+{"sentence": "A Pomeranian came in with a suspected luxating patella; she limped noticeably.", "sex": "female"}
+{"sentence": "An elderly rabbit visited for her annual health check.", "sex": "female"}
+{"sentence": "A Bearded Dragon was treated for his vitamin deficiency.", "sex": "male"}
+{"sentence": "A Chihuahua with persistent sneezing came in for evaluation.", "sex": "not specified"}
+{"sentence": "A Burmese cat came in with her kittens for a wellness exam.", "sex": "female"}
+{"sentence": "A Golden Retriever visited for his routine neuter surgery.", "sex": "male"}
+{"sentence": "An elderly Persian cat was evaluated for her chronic kidney disease.", "sex": "female"}
+{"sentence": "We saw a parakeet with a broken wing today.", "sex": "not specified"}
+{"sentence": "A hamster was brought in for a lump removal; he remained calm throughout.", "sex": "male"}
+{"sentence": "A Maine Coon cat visited for her routine vaccinations.", "sex": "female"}
+{"sentence": "A mixed-breed dog with itchy skin was brought in for treatment.", "sex": "not specified"}
+{"sentence": "An owner brought their turtle in for her biannual check-up.", "sex": "female"}
+{"sentence": "A young male Rottweiler came in after ingesting chocolate.", "sex": "male"}
+{"sentence": "A Border Collie was treated for her anxiety during thunderstorms.", "sex": "female"}
+{"sentence": "A ferret came in for his distemper vaccination.", "sex": "male"}
+{"sentence": "An elderly cat was brought in with a urinary blockage.", "sex": "not specified"}
+{"sentence": "A Schnauzer with a limp visited the clinic for imaging tests.", "sex": "not specified"}
+{"sentence": "A Chihuahua with dental issues was scheduled for a cleaning.", "sex": "not specified"}
+{"sentence": "A parrot came in for a blood test to diagnose his fatigue.", "sex": "male"}
+{"sentence": "A Cocker Spaniel visited for her ear infection follow-up.", "sex": "female"}
+{"sentence": "A hamster was treated for wet tail disease.", "sex": "not specified"}
+{"sentence": "A Boxer with breathing difficulties was evaluated for a nasal tumor.", "sex": "male"}
+{"sentence": "A Poodle with skin allergies came in for her monthly injection.", "sex": "female"}
+{"sentence": "A turtle was brought in with a cracked shell.", "sex": "not specified"}
+{"sentence": "A Siamese kitten visited for her first wellness exam.", "sex": "female"}
+{"sentence": "A Labrador was brought in for his routine wellness bloodwork.", "sex": "male"}
+{"sentence": "A kitten was treated for fleas and intestinal parasites.", "sex": "not specified"}
+{"sentence": "The fluffy tabby cat named Luna was scheduled for a spay surgery.", "sex": "female"}
+{"sentence": "An orange-striped tomcat named Simba was neutered this morning.", "sex": "male"}
+{"sentence": "The black cat with the name Midnight underwent a neuter procedure today.", "sex": "male"}
